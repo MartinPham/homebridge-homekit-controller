@@ -23,6 +23,6 @@
   "dependencies": {
     "hap-controller": "MartinPham/hap-controller-node.git#patch-2",
     "libsodium-wrappers": "^0.7.6",
-    "terminal-kit": "^1.33.3"
+    "terminal-kit": "^3.0.0"
   }
 }
